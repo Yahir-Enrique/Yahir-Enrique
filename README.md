@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,100:302b63&height=200&section=header&text=Yahir%20Romero&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Software%20Engineering%20Student%20%7C%20El%20Salvador&descAlignY=75&descSize=16)
+
 # Hola, soy Yahir Romero 
 
 Estudiante de Ingeniería en Desarrollo de Software en El Salvador.
