@@ -48,9 +48,3 @@ Tercer año, aprendiendo a construir cosas que funcionen (y a veces hasta se ven
 - Metodologías ágiles (Scrum)
 - Buenas prácticas con Git y GitHub
 - Desarrollo web fullstack
-
----
-
-## ⚡ Dato random
-
-Si funciona no lo toques
