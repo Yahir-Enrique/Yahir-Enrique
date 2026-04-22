@@ -3,7 +3,7 @@
 # Hola, soy Yahir Romero 
 
 Estudiante de Ingeniería en Desarrollo de Software en El Salvador.
-Tercer año, aprendiendo a construir cosas que funcionen (y a veces hasta se ven bien).
+Tercer año, aprendiendo a construir cosas que funcionen
 
 ---
 
@@ -31,17 +31,6 @@ Tercer año, aprendiendo a construir cosas que funcionen (y a veces hasta se ven
 - 🐧 Metiéndole al lado de sistemas y un poco de seguridad con Kali Linux
 - 📖 Aprendiendo buenas prácticas: ramas, commits convencionales, pull requests
 
----
-
-
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [OpusCore] | Sistema de gestión para academia de cursos | PHP, MySQL, JavaScript |
-
----
 
 ## 🌱 Actualmente aprendiendo
 
